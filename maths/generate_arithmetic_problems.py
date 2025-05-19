@@ -21,6 +21,7 @@ from time import sleep
 from dotenv import load_dotenv
 import os
 import argparse
+import re  # Add this to imports at the top
 
 # Load environment variables from .env file
 load_dotenv()
@@ -31,15 +32,15 @@ if not API_KEY:
     raise ValueError("GOOGLE_API_KEY not found in environment variables")
 genai.configure(api_key=API_KEY)
 
-def generate_word_problems(problem_count: int, number_limit: int, api_attempts: int) -> List[Dict]:
+def generate_word_problems(problem_count: int, number_limit: int, api_attempts: int, temperature: float = 0.9) -> List[Dict]:
     prompt_text = f"""
 Generate a JSON array containing exactly {problem_count} word problems designed for a primary school student learning basic addition and subtraction.
 
 Each problem should be:
 1.  A simple, single-step addition or subtraction.
 2.  Use numbers (including the result) strictly within the range of 0 to {number_limit}.
-3.  Relatable and easy for a young child to understand.
-4.  Feature different objects, scenarios, or characters where possible to add variety.
+3.  Easy for a young child to understand, but interesting and fun.
+4.  Feature different objects, scenarios, or characters where possible to add variety. Use wacky names and objects.
 5.  Spell numbers out as words in the question. Do not use digits. (For example, write "fifteen" not "15".)
 6.  Don't repeat the same names or objects as in the examples in the prompt.
 
@@ -50,7 +51,7 @@ The output should be a JSON array where each element is an object with two keys:
 Follow this JSON format exactly:
 [
   {{"question": "Bob had five slap bands. His mum gave him one more. How many does he have now?", "answer": "Bob now has ____________ slap bands."}},
-  {{"question": "Tom saw ten birds in a tree. Then, two birds flew away. How many birds are on the tree now?", "answer": "There are now ____________ birds on the tree."}},
+  {{"question": "Tom saw ten monkeys in a tree. Then, two monkeys ran away. How many monkeys are on the tree now?", "answer": "There are now ____________ monkeys on the tree."}},
   {{"question": "Mia picked six flowers then gave two of them to her sister. How many flowers does she have left?", "answer": "Mia has ____________ flowers left."}}
 ]
 """
@@ -58,7 +59,15 @@ Follow this JSON format exactly:
         word_problems = []
         try:
             model = genai.GenerativeModel('gemini-2.0-flash')
-            response = model.generate_content(prompt_text)
+            generation_config = {
+                "temperature": temperature,
+                "top_p": 0.8,
+                "top_k": 40
+            }
+            response = model.generate_content(
+                prompt_text,
+                generation_config=generation_config
+            )
             response_text = response.text.strip()
             json_start = response_text.find('[')
             json_end = response_text.rfind(']') + 1
@@ -75,9 +84,9 @@ Follow this JSON format exactly:
         sleep(30)
     return []
 
-def make_worksheet(number: int, problem_count: int, number_limit: int, api_attempts: int) -> str:
+def make_worksheet(number: int, problem_count: int, number_limit: int, api_attempts: int, temperature: float = 0.9) -> str:
     filename = f"add_sub_word_problems_{number}.docx"
-    word_problems = generate_word_problems(problem_count, number_limit, api_attempts)
+    word_problems = generate_word_problems(problem_count, number_limit, api_attempts, temperature)
     print(f"*** Worksheet #{number} ***")
     for i, p in enumerate(word_problems, 1):
         print(f"{i}. {p['question']}")
@@ -106,8 +115,10 @@ def make_worksheet(number: int, problem_count: int, number_limit: int, api_attem
 
     for i, problem in enumerate(word_problems):
         p = document.add_paragraph(f"{problem['question']}\n", style='List Number')
-        p.add_run(f"Number sentence: {'_'*50}\n")
-        p.add_run(f"Answer: {problem['answer']}\n")
+        p.add_run(f"Number sentence: {'_'*70}\n")
+        # widen the answer field
+        ans = ('_'*40).join(re.split(r'_+', problem['answer']))
+        p.add_run(f"Answer: {ans}\n")
 
     document.save(filename)
     print(f"Word document '{filename}' created successfully.")
@@ -147,6 +158,12 @@ def main():
         default='.',
         help='Directory to save the generated worksheets'
     )
+    parser.add_argument(
+        '--temperature',
+        type=float,
+        default=0.9,
+        help='Temperature for LLM generation (0.0 to 1.0, higher means more creative)'
+    )
 
     args = parser.parse_args()
 
@@ -155,7 +172,8 @@ def main():
             number=args.number,
             problem_count=args.problem_count,
             number_limit=args.number_limit,
-            api_attempts=args.api_attempts
+            api_attempts=args.api_attempts,
+            temperature=args.temperature
         )
         print(f"Successfully generated worksheet {args.number} as {filename}")
     except Exception as e:
