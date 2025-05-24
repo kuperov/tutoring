@@ -13,8 +13,18 @@ all: $(PDF_FILES)
 %.pdf: %.svg
 	inkscape --export-filename=$@ $<
 
+# Print targets
+print-%: %.pdf
+	lpr $< -P "HL-2270DW"
+
+print-all: $(PDF_FILES)
+	lpr $^
+
+printers:
+	lpstat -p
+
 # Clean target to remove generated PDFs
 clean:
 	rm -f $(PDF_FILES)
 
-.PHONY: all clean 
+.PHONY: all clean print-all printers 
