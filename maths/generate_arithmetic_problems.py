@@ -40,7 +40,7 @@ Each problem should be:
 1.  A simple, single-step addition or subtraction.
 2.  Use numbers (including the result) strictly within the range of 0 to {number_limit}.
 3.  Easy for a young child to understand, but interesting and fun.
-4.  Feature different objects, scenarios, or characters where possible to add variety. Use wacky names and objects.
+4.  Feature very different and funny objects, scenarios, and characters to add variety.
 5.  Spell numbers out as words in the question. Do not use digits. (For example, write "fifteen" not "15".)
 6.  Don't repeat the same names or objects as in the examples in the prompt.
 
