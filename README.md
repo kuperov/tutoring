@@ -86,3 +86,4 @@ that some of it might be useful. Foundation level (first year of school).
 [38](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/add_sub_word_problems_38.pdf)
 [39](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/add_sub_word_problems_39.pdf)
 [40](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/add_sub_word_problems_40.pdf)
+    - Decimal blocks (1s, 10s, 100s) [laser cutter design](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/number_blocks.svg)
