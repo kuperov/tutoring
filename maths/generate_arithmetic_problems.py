@@ -32,7 +32,7 @@ if not API_KEY:
     raise ValueError("GOOGLE_API_KEY not found in environment variables")
 genai.configure(api_key=API_KEY)
 
-def generate_word_problems(problem_count: int, number_limit: int, api_attempts: int, temperature: float = 0.9) -> List[Dict]:
+def generate_word_problems(problem_count: int, number_limit: int, api_attempts: int, temperature: float = 0.8) -> List[Dict]:
     prompt_text = f"""
 Generate a JSON array containing exactly {problem_count} word problems designed for a primary school student learning basic addition and subtraction.
 
@@ -84,8 +84,8 @@ Follow this JSON format exactly:
         sleep(30)
     return []
 
-def make_worksheet(number: int, problem_count: int, number_limit: int, api_attempts: int, temperature: float = 0.9) -> str:
-    filename = f"add_sub_word_problems_{number}.docx"
+def make_worksheet(number: int, problem_count: int, number_limit: int, api_attempts: int, temperature: float = 0.8, output_dir: str = '.') -> str:
+    filename = f"{output_dir}/add_sub_word_problems_{number}.docx"
     word_problems = generate_word_problems(problem_count, number_limit, api_attempts, temperature)
     print(f"*** Worksheet #{number} ***")
     for i, p in enumerate(word_problems, 1):
@@ -109,13 +109,13 @@ def make_worksheet(number: int, problem_count: int, number_limit: int, api_attem
     section.top_margin = Inches(0.5)
     section.bottom_margin = Inches(0.5)
     section.left_margin = Inches(0.5)
-    section.right_margin = Inches(0.5)
+    section.right_margin = Inches(1.5)
 
     document.add_heading(f'Arithmetic problem set {number}', 0)
 
     for i, problem in enumerate(word_problems):
         p = document.add_paragraph(f"{problem['question']}\n", style='List Number')
-        p.add_run(f"Number sentence: {'_'*70}\n")
+        p.add_run(f"Number sentence: {'_'*60}\n")
         # widen the answer field
         ans = ('_'*40).join(re.split(r'_+', problem['answer']))
         p.add_run(f"Answer: {ans}\n")
@@ -161,7 +161,7 @@ def main():
     parser.add_argument(
         '--temperature',
         type=float,
-        default=0.9,
+        default=0.8,
         help='Temperature for LLM generation (0.0 to 1.0, higher means more creative)'
     )
 
@@ -173,7 +173,8 @@ def main():
             problem_count=args.problem_count,
             number_limit=args.number_limit,
             api_attempts=args.api_attempts,
-            temperature=args.temperature
+            temperature=args.temperature,
+            output_dir=args.output_dir
         )
         print(f"Successfully generated worksheet {args.number} as {filename}")
     except Exception as e:
