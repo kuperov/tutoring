@@ -1,20 +1,41 @@
 Foundation teaching resources (Victorian Curriculum)
 ====================================================
 
-Resources I used to teach my kids part of the [Victorian Curriculum](https://victoriancurriculum.vcaa.vic.edu.au/), shared in the hope
+Resources I used to tutor my kids for part of the [Victorian Curriculum](https://victoriancurriculum.vcaa.vic.edu.au/), shared in the hope
 that some of it might be useful. Foundation level (first year of school).
 
 ## Writing
 
-  * 8mm dotted thirds [pdf](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/dotted_thirds_8mm.pdf) [svg](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/dotted_thirds_8mm.svg)
-  * Alphabet tracing
-      - [Level 1](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet_trace_level_1.pdf)
-      - [Level 2](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet_trace_level_2.pdf)
-      - [Level 3](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet_trace_level_3.pdf)
-      - [Level 4](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet_trace_level_4.pdf)
-      - [Level 5](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet_trace_level_5.pdf)
-      - [Master svg file](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet_trace.svg)
-  * [Stroke order](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/stroke_order.pdf)
+  * Dotted thirds [8mm](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/dotted_thirds_8mm.pdf) [6mm](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/dotted_thirds_6mm.pdf)
+  * [Stroke order](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet/stroke_order.pdf)
+  * Alphabet tracing worksheets: [1](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet/alphabet_trace_level_1.pdf)
+ [2](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet/alphabet_trace_level_2.pdf)
+ [3](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet/alphabet_trace_level_3.pdf)
+ [4](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet/alphabet_trace_level_4.pdf)
+ [5](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet/alphabet_trace_level_5.pdf)
+  * Writing practice worksheets: [1](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/silly.pdf)
+[2](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/sbd.pdf)
+[3](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/tongue.pdf)
+[4](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/monkey.pdf)
+[5](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/tonguetwisters.pdf)
+[6](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/booger.pdf)
+[7](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/lakes.pdf)
+[8](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/brush.pdf)
+[9](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/cat.pdf)
+[10](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/frog.pdf)
+[11](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/green_frog.pdf)
+[12](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/jabberwocky.pdf)
+[13](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/voom.pdf)
+[14](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/greeneggsham.pdf)
+[15](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/woodchuck.pdf)
+[16](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/grinch.pdf)
+[17](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/tweetle.pdf)
+[18](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/pie.pdf)
+[19](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/crocodile.pdf)
+[20](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/wocket.pdf)
+[21](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/earwax.pdf)
+[22](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/fartnado.pdf)
+[23](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/text/writing/text/letters.pdf)
 
 ## Reading
 
@@ -24,5 +45,24 @@ that some of it might be useful. Foundation level (first year of school).
 
 ## Maths
 
-  * Basic word problems
-    - 1 addition [docx](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/addition_word_problems_1.docx) [pdf](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/addition_word_problems_1.pdf)
+  * Addition & subtraction word problems
+    - Values 1-20: [1](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_01.pdf)
+[2](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_02.pdf)
+[3](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_03.pdf)
+[4](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_04.pdf)
+[5](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_05.pdf)
+[6](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_06.pdf)
+[7](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_07.pdf)
+[8](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_08.pdf)
+[9](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_09.pdf)
+[10](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_10.pdf)
+[11](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_11.pdf)
+[12](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_12.pdf)
+[13](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_13.pdf)
+[14](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_14.pdf)
+[15](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_15.pdf)
+[16](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_16.pdf)
+[17](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_17.pdf)
+[18](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_18.pdf)
+[19](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_19.pdf)
+[20](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/maths/add_sub_word_problems_20.pdf)
