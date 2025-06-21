@@ -1,14 +1,18 @@
-Foundation teaching resources (Victorian Curriculum)
-====================================================
+Tutoring resources
+==================
 
-Resources I used to tutor my kids for part of the [Victorian Curriculum](https://victoriancurriculum.vcaa.vic.edu.au/), shared in the hope
-that some of it might be useful. Foundation level (first year of school).
+Resources for tutoring my kids. Partly inspired by the [Victorian Curriculum](https://victoriancurriculum.vcaa.vic.edu.au/), shared in the hope
+that some of it might be useful.
 
 ## Writing
 
   * Blank dotted thirds [8mm](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/dotted_thirds_8mm.pdf) [6mm](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/dotted_thirds_6mm.pdf)
   * [Stroke order](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet/stroke_order.pdf)
-  * Alphabet tracing: [1](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet/alphabet_trace_level_1.pdf)
+  * Alphabet tracing:
+    - Kinder level: [1](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/kinder/alphabet_trace_once.pdf)
+    [3](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/kinder/lower_case_letters_trace.pdf)
+    [2](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/kinder/alphabet_trace.pdf)
+    - Foundation level (increasing difficulty): [1](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet/alphabet_trace_level_1.pdf)
  [2](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet/alphabet_trace_level_2.pdf)
  [3](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet/alphabet_trace_level_3.pdf)
  [4](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet/alphabet_trace_level_4.pdf)
@@ -86,4 +90,5 @@ that some of it might be useful. Foundation level (first year of school).
 [38](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/add_sub_word_problems_38.pdf)
 [39](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/add_sub_word_problems_39.pdf)
 [40](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/add_sub_word_problems_40.pdf)
-    - Decimal blocks (1s, 10s, 100s) [laser cutter design](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/number_blocks.svg)
+    - Generator script: [`generate_arithmetic_problems.py`](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/generate_arithmetic_problems.py)
+  * Decimal blocks (1s, 10s, 100s): [laser cutter design](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/number_blocks.svg)
