@@ -43,9 +43,9 @@ that some of it might be useful.
 
 ## Reading
 
-  * Large letters for learning uppercase
-  * Sight word flashcards
-  * Blends "train" cards
+  * [Large printable letters](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/reading/alphabet_dance.pdf) for "alphabet dance" game
+  * Sight word [flashcards](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/reading/sight_words.pdf)
+  * Blends ["train" cards](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/reading/train.pdf) and [star search](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/reading/star_search.pdf) game from [Phonics Pathways](https://www.amazon.com.au/Phonics-Pathways-Reading-Perfect-Spelling/dp/1118022432)
 
 ## Maths
 
