@@ -1,17 +1,17 @@
 Tutoring resources
 ==================
 
-Resources for tutoring my kids. Partly inspired by the [Victorian Curriculum](https://victoriancurriculum.vcaa.vic.edu.au/), shared in the hope
+Resources for tutoring my kids. Partly inspired by the [Victorian curriculum](https://victoriancurriculum.vcaa.vic.edu.au/), shared in the hope
 that some of it might be useful.
 
 ## Writing
 
   * Blank dotted thirds [8mm](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/dotted_thirds_8mm.pdf) [6mm](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/dotted_thirds_6mm.pdf)
-  * [Stroke order](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet/stroke_order.pdf)
+  * Disconnected Victorian cursive right-handed [stroke order](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet/stroke_order.pdf)
   * Alphabet tracing:
     - Kinder level: [1](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/kinder/alphabet_trace_once.pdf)
-    [3](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/kinder/lower_case_letters_trace.pdf)
-    [2](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/kinder/alphabet_trace.pdf)
+    [2](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/kinder/lower_case_letters_trace.pdf)
+    [3](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/kinder/alphabet_trace.pdf)
     - Foundation level (increasing difficulty): [1](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet/alphabet_trace_level_1.pdf)
  [2](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet/alphabet_trace_level_2.pdf)
  [3](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/writing/alphabet/alphabet_trace_level_3.pdf)
@@ -49,6 +49,9 @@ that some of it might be useful.
 
 ## Maths
 
+  * Number recognition: [1](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/numbers/numbers_1.pdf)
+  [2](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/numbers/numbers_2.pdf)
+  [3](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/numbers/numbers_3.pdf)
   * Addition & subtraction word problems [combined file](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/all_add_sub_word_problems.pdf)
     - Values 1-20: [1](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/add_sub_word_problems_01.pdf)
 [2](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/add_sub_word_problems_02.pdf)
@@ -91,4 +94,4 @@ that some of it might be useful.
 [39](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/add_sub_word_problems_39.pdf)
 [40](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/add_sub_word_problems_40.pdf)
     - Generator script: [`generate_arithmetic_problems.py`](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/generate_arithmetic_problems.py)
-  * Decimal blocks (1s, 10s, 100s): [laser cutter design](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/number_blocks.svg)
+  * Decimal tiles (1s, 10s, 100s): [laser cutter design](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/number_blocks.svg)
