@@ -52,6 +52,8 @@ that some of it might be useful.
   * Number recognition: [1](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/numbers/numbers_1.pdf)
   [2](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/numbers/numbers_2.pdf)
   [3](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/numbers/numbers_3.pdf)
+  [4](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/numbers/numbers_4.pdf)
+  [5](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/numbers/numbers_5.pdf)
   * Addition & subtraction word problems [combined file](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/all_add_sub_word_problems.pdf)
     - Values 1-20: [1](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/add_sub_word_problems_01.pdf)
 [2](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/add_sub_word_problems_02.pdf)
