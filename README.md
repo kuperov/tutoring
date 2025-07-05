@@ -95,5 +95,8 @@ that some of it might be useful.
 [38](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/add_sub_word_problems_38.pdf)
 [39](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/add_sub_word_problems_39.pdf)
 [40](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/add_sub_word_problems_40.pdf)
-    - Generator script: [`generate_arithmetic_problems.py`](https://github.com/kuperov/vic-school-worksheets/blob/master/maths/generate_arithmetic_problems.py)
-  * Decimal tiles (1s, 10s, 100s): [laser cutter design](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/number_blocks.svg)
+    - Generator script: [`generate_arithmetic_problems.py`](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/generate_arithmetic_problems.py)
+  * Decimal tiles (1s, 10s, 100s) laser cutter design: [combined](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/number_blocks.svg),
+    A4 size [1](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/number_blocks_1.svg)
+    [2](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/number_blocks_2.svg)
+    [3](https://github.com/kuperov/vic-school-worksheets/raw/refs/heads/master/maths/number_blocks_3.svg)
