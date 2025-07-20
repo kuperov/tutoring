@@ -37,12 +37,11 @@ def generate_word_problems(problem_count: int, number_limit: int, api_attempts: 
 Generate a JSON array containing exactly {problem_count} word problems designed for a primary school student learning basic addition and subtraction.
 
 Each problem should be:
-1.  A simple, single-step addition or subtraction.
+1.  An addition or subtraction problem.
 2.  Use numbers (including the result) strictly within the range of 0 to {number_limit}.
-3.  Easy for a young child to understand, but interesting and fun.
-4.  Feature very different and funny objects, scenarios, and characters to add variety.
-5.  Spell numbers out as words in the question. Do not use digits. (For example, write "fifteen" not "15".)
-6.  Don't repeat the same names or objects as in the examples in the prompt.
+3.  Feature very different and funny objects, scenarios, and characters to add variety.
+4.  Spell numbers out as words in the question. Do not use digits. (For example, write "fifteen" not "15".)
+5.  Don't repeat the same names or objects as in the examples in the prompt.
 
 The output should be a JSON array where each element is an object with two keys:
 -   `"question"`: The full text of the word problem.
