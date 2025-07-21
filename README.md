@@ -11,8 +11,9 @@ that some of it might be useful.
   [3](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/numbers/numbers_3.pdf)
   [4](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/numbers/numbers_4.pdf)
   [5](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/numbers/numbers_5.pdf)
-  * ([Numeracy problem sets](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/worksheets.pdf))
-    - Generator script: [`generate_arithmetic_problems.py`](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/generate_arithmetic_problems.py)
+  * [Numeracy problem sets](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/worksheets.pdf)
+    - Generator script: [`generate_arithmetic_problems.py`](https://github.com/kuperov/worksheets/blob/master/maths/generate_arithmetic_problems.py)
+    - Figure generator: [`generate_figures.ipynb`](https://github.com/kuperov/worksheets/blob/master/maths/generate_figures.ipynb)
   * Decimal tiles (1s, 10s, 100s) laser cutter design: [combined](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/number_blocks.svg),
     A4 size [1](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/number_blocks_1.svg)
     [2](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/number_blocks_2.svg)
