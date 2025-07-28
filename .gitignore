@@ -5,3 +5,5 @@
 **/*.log
 **/*.idx
 **/*.out
+**/*.toc
+**/__pycache__
