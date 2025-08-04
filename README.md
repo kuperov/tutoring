@@ -1,10 +1,10 @@
 Tutoring resources
 ==================
 
-This repo contains some of the resources I use to tutor my kids.
+This repo contains some of the resources I use to tutor my kids at home.
 
 I was inspired by Erik Hoel's [marvellous series of blog posts](https://www.theintrinsicperspective.com/p/why-we-stopped-making-einsteins)
-about the effectiveness of aristocratic tutoring.
+about the outrageous effectiveness of aristocratic tutoring. If you have school-aged kids, I think they're worth your time.
 
 ## Maths
 
