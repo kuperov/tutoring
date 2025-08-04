@@ -1,8 +1,10 @@
 Tutoring resources
 ==================
 
-Resources for tutoring my kids. Partly inspired by the [Victorian curriculum](https://victoriancurriculum.vcaa.vic.edu.au/), shared in the hope
-that some of it might be useful.
+This repo contains some of the resources I use to tutor my kids.
+
+I was inspired by Erik Hoel's [marvellous series of blog posts](https://www.theintrinsicperspective.com/p/why-we-stopped-making-einsteins)
+about the effectiveness of aristocratic tutoring.
 
 ## Maths
 
