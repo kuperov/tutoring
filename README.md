@@ -3,8 +3,11 @@ Tutoring resources
 
 This repo contains some of the resources I use to tutor my kids at home.
 
-I was inspired by Erik Hoel's [marvellous series of blog posts](https://www.theintrinsicperspective.com/p/why-we-stopped-making-einsteins)
-about the outrageous effectiveness of aristocratic tutoring. If you have school-aged kids, I think they're worth your time.
+I was inspired by Erik Hoel's marvellous series of blog posts 
+about the outrageous effectiveness of aristocratic tutoring. 
+([Part 1](https://www.theintrinsicperspective.com/p/why-we-stopped-making-einsteins),
+[Part 2](https://www.theintrinsicperspective.com/p/follow-up-why-we-stopped-making-einsteins), [Part 3](https://www.theintrinsicperspective.com/p/how-geniuses-used-to-be-raised), [teaching reading early](https://www.theintrinsicperspective.com/p/how-i-taught-my-3-year-old-to-read)).
+If you have school-aged kids, I think these posts are worth your time.
 
 ## Maths
 
@@ -15,7 +18,7 @@ about the outrageous effectiveness of aristocratic tutoring. If you have school-
   [5](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/numbers/numbers_5.pdf)
   * [Numeracy problem sets](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/worksheets.pdf)
     - Generator script: [`generate_arithmetic_problems.py`](https://github.com/kuperov/worksheets/blob/master/maths/generate_arithmetic_problems.py)
-    - Figure generator: [`generate_figures.ipynb`](https://github.com/kuperov/worksheets/blob/master/maths/generate_figures.ipynb)
+    - Figures notebook: [`generate_figures.ipynb`](https://github.com/kuperov/worksheets/blob/master/maths/generate_figures.ipynb)
   * Decimal tiles (1s, 10s, 100s) laser cutter design: [combined](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/number_blocks.svg),
     A4 size [1](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/number_blocks_1.svg)
     [2](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/number_blocks_2.svg)
