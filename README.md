@@ -7,7 +7,7 @@ Our decision to learn at home was inspired by Erik Hoel's marvellous posts
 about aristocratic tutoring 
 ([Part 1](https://www.theintrinsicperspective.com/p/why-we-stopped-making-einsteins),
 [Part 2](https://www.theintrinsicperspective.com/p/follow-up-why-we-stopped-making-einsteins), [Part 3](https://www.theintrinsicperspective.com/p/how-geniuses-used-to-be-raised), [teaching reading early](https://www.theintrinsicperspective.com/p/how-i-taught-my-3-year-old-to-read)).
-If you have school-aged kids, [his substack](https://www.theintrinsicperspective.com) is well worth your time.
+If you have school-aged kids, [his substack](https://www.theintrinsicperspective.com) is worth your time.
 
 ## Maths
 
@@ -61,15 +61,11 @@ If you have school-aged kids, [his substack](https://www.theintrinsicperspective
 
 ## Reading
 
-Reading is the most important academic skill a child can develop, but the school system [teaches it far too late](https://www.theintrinsicperspective.com/p/literacy-lag-we-start-reading-too) with [ineffective methods](https://features.apmreports.org/sold-a-story/).
+Reading is the most important academic skill a child can develop, but the school system [teaches it far too late](https://www.theintrinsicperspective.com/p/literacy-lag-we-start-reading-too) with [ineffective methods](https://features.apmreports.org/sold-a-story/). Both boys could read before starting school.
+
+Some of the tools we used:
 
   * [Large printable letters](https://github.com/kuperov/worksheets/raw/refs/heads/master/reading/alphabet_dance.pdf) for "alphabet dance" game
-  * Sight word [flashcards](https://github.com/kuperov/worksheets/raw/refs/heads/master/reading/sight_words.pdf)
   * Blends ["train" cards](https://github.com/kuperov/worksheets/raw/refs/heads/master/reading/train.pdf) and [star search](https://github.com/kuperov/worksheets/raw/refs/heads/master/reading/star_search.pdf) game from [Phonics Pathways](https://www.amazon.com.au/Phonics-Pathways-Reading-Perfect-Spelling/dp/1118022432)
-  * We used the [SoundWaves decodable readers](https://www.fireflyeducation.com.au/series/soundwaves/reading) from our local library to support our phonics-based approach, followed by [Elephant and Piggie](https://www.amazon.com.au/Elephant-Piggie-Complete-Collection-Willems/dp/136802131X) and [School of Monsters](https://www.amazon.com.au/School-Monsters-Books-Collection-William/dp/0257353003). My youngest [read through his first chapter book](https://www.amazon.com.au/Faraway-Tree-Adventure-Clauss-Castle/dp/1405280115) aged 3.
-  * We've enjoyed the following chapter book series:
-    - [The Faraway Tree](https://en.wikipedia.org/wiki/The_Faraway_Tree)
-    - [The Kingdom of Wrenly](https://www.simonandschuster.com.au/series/The-Kingdom-of-Wrenly)
-    - [Zac Power](https://www.goodreads.com/series/61701-zac-power-classic)
-    - [Goosebumps](https://en.wikipedia.org/wiki/Goosebumps)
-    - [How to Train Your Dragon](https://www.amazon.com.au/How-Train-Your-Dragon-Complete/dp/0316347000)
+  * We used the excellent [SoundWaves decodable readers](https://www.fireflyeducation.com.au/series/soundwaves/reading) from our local library to support our phonics-based approach, followed by [Elephant and Piggie](https://www.amazon.com.au/Elephant-Piggie-Complete-Collection-Willems/dp/136802131X) and [School of Monsters](https://www.amazon.com.au/School-Monsters-Books-Collection-William/dp/0257353003).
+  * We then switched to much more exciting chapter books. My youngest [read his first chapter book](https://www.amazon.com.au/Faraway-Tree-Adventure-Clauss-Castle/dp/1405280115) at age 3. These include [The Faraway Tree](https://en.wikipedia.org/wiki/The_Faraway_Tree), [The Kingdom of Wrenly](https://www.simonandschuster.com.au/series/The-Kingdom-of-Wrenly), [Zac Power](https://www.goodreads.com/series/61701-zac-power-classic), [Goosebumps](https://en.wikipedia.org/wiki/Goosebumps), and [How to Train Your Dragon](https://www.amazon.com.au/How-Train-Your-Dragon-Complete/dp/0316347000).
