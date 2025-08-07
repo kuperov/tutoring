@@ -61,7 +61,7 @@ If you have school-aged kids, [his substack](https://www.theintrinsicperspective
 
 ## Reading
 
-Reading is the most important academic skill a child can develop, but the school system [teaches it far too late](https://www.theintrinsicperspective.com/p/literacy-lag-we-start-reading-too) using [ineffective methods](https://features.apmreports.org/sold-a-story/). Both boys could read before starting school.
+Reading is the most important academic skill a child can develop, but the school system [teaches reading far too late](https://www.theintrinsicperspective.com/p/literacy-lag-we-start-reading-too) using [ineffective methods](https://features.apmreports.org/sold-a-story/). We taught both of our boys to read before they started school.
 
 Some of the tools we used:
 
