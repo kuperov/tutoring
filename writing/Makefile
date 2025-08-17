@@ -13,6 +13,15 @@ all: $(PDF_FILES)
 %.pdf: %.svg
 	inkscape --export-filename=$@ $<
 
+text_24mm.pdf: text/24mm/*.pdf
+	pdftk $^ cat output $@
+
+text_18mm.pdf: text/18mm/*.pdf
+	pdftk $^ cat output $@
+
+text_14mm.pdf: text/14mm/*.pdf
+	pdftk $^ cat output $@
+
 # Print targets
 print-%: %.pdf
 	lpr $< -P "HL-2270DW"

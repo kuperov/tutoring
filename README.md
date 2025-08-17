@@ -35,37 +35,17 @@ If you have school-aged kids, [his substack](https://www.theintrinsicperspective
  [3](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/alphabet/alphabet_trace_level_3.pdf)
  [4](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/alphabet/alphabet_trace_level_4.pdf)
  [5](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/alphabet/alphabet_trace_level_5.pdf)
-  * Handwriting practice
-    - On 8mm dotted thirds: [1](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/01_fartnado.pdf)
-[2](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/02_booger.pdf)
-[3](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/03_sbd.pdf)
-[4](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/04_brush.pdf)
-[5](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/05_earwax.pdf)
-[6](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/06_jabberwocky.pdf)
-[7](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/07_pie.pdf)
-[8](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/08_frog.pdf)
-[9](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/09_green_frog.pdf)
-[10](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/10_monkey.pdf)
-[11](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/11_tonguetwisters.pdf)
-[12](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/12_woodchuck.pdf)
-[13](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/13_cat.pdf)
-[14](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/14_crocodile.pdf)
-[15](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/15_grinch.pdf)
-[16](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/16_lakes.pdf)
-[17](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/17_silly.pdf)
-[18](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/18_tongue.pdf)
-[19](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/19_tweetle.pdf)
-[20](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/20_voom.pdf)
-[21](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/8mm/21_greeneggsham.pdf)
-    - On 6mm dotted thirds: [1](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/text/6mm/01_wocket.pdf)
+  * Handwriting practice on dotted thirds: [24mm](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/writing_24mm.pdf),
+  [18mm](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/writing_18mm.pdf), and
+  [14mm](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/writing_14mm.pdf)
 
 ## Reading
 
-Reading is the most important academic skill a child can develop, but the school system [teaches reading far too late](https://www.theintrinsicperspective.com/p/literacy-lag-we-start-reading-too) using [ineffective methods](https://features.apmreports.org/sold-a-story/). We taught both of our boys to read before they started school.
+Reading is the most important academic skill a child can develop, but the school system [teaches reading far too late](https://www.theintrinsicperspective.com/p/literacy-lag-we-start-reading-too) using [ineffective methods](https://features.apmreports.org/sold-a-story/). We taught both of our boys to read before they started school, and our youngest [finished his first chapter book](https://www.amazon.com.au/Faraway-Tree-Adventure-Clauss-Castle/dp/1405280115) at age 3.
 
 Some of the tools we used:
 
   * [Large printable letters](https://github.com/kuperov/worksheets/raw/refs/heads/master/reading/alphabet_dance.pdf) for "alphabet dance" game
   * Blends ["train" cards](https://github.com/kuperov/worksheets/raw/refs/heads/master/reading/train.pdf) and [star search](https://github.com/kuperov/worksheets/raw/refs/heads/master/reading/star_search.pdf) game from [Phonics Pathways](https://www.amazon.com.au/Phonics-Pathways-Reading-Perfect-Spelling/dp/1118022432)
-  * After learning the alphabet and basic letter blends, we borrowed the excellent [SoundWaves decodable readers](https://www.fireflyeducation.com.au/series/soundwaves/reading) from our local library. We continued with [Elephant and Piggie](https://www.amazon.com.au/Elephant-Piggie-Complete-Collection-Willems/dp/136802131X) and [School of Monsters](https://www.amazon.com.au/School-Monsters-Books-Collection-William/dp/0257353003).
-  * After that we switched to much more exciting chapter books (our youngest [finished his first one](https://www.amazon.com.au/Faraway-Tree-Adventure-Clauss-Castle/dp/1405280115) at age 3). These include [The Faraway Tree](https://en.wikipedia.org/wiki/The_Faraway_Tree), [The Kingdom of Wrenly](https://www.simonandschuster.com.au/series/The-Kingdom-of-Wrenly), [Zac Power](https://www.goodreads.com/series/61701-zac-power-classic), [Goosebumps](https://en.wikipedia.org/wiki/Goosebumps), [Treehouse series](https://andygriffiths.com.au/the-treehouse-series/), [Captain Underpants](https://en.wikipedia.org/wiki/Captain_Underpants), and [How to Train Your Dragon](https://www.amazon.com.au/How-Train-Your-Dragon-Complete/dp/0316347000).
+  * After learning the alphabet and basic letter blends, we borrowed the excellent [SoundWaves decodable readers](https://www.fireflyeducation.com.au/series/soundwaves/reading) from our local library. We followed those with [Elephant and Piggie](https://www.amazon.com.au/Elephant-Piggie-Complete-Collection-Willems/dp/136802131X) and [School of Monsters](https://www.amazon.com.au/School-Monsters-Books-Collection-William/dp/0257353003).
+  * We then switched to much more exciting chapter books. These include [The Faraway Tree](https://en.wikipedia.org/wiki/The_Faraway_Tree), [The Kingdom of Wrenly](https://www.simonandschuster.com.au/series/The-Kingdom-of-Wrenly), [Zac Power](https://www.goodreads.com/series/61701-zac-power-classic), [Goosebumps](https://en.wikipedia.org/wiki/Goosebumps), [Treehouse series](https://andygriffiths.com.au/the-treehouse-series/), [Captain Underpants](https://en.wikipedia.org/wiki/Captain_Underpants), and [How to Train Your Dragon](https://www.amazon.com.au/How-Train-Your-Dragon-Complete/dp/0316347000).
