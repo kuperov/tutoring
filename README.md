@@ -9,6 +9,10 @@ about aristocratic tutoring
 [Part 2](https://www.theintrinsicperspective.com/p/follow-up-why-we-stopped-making-einsteins), [Part 3](https://www.theintrinsicperspective.com/p/how-geniuses-used-to-be-raised), [teaching reading early](https://www.theintrinsicperspective.com/p/how-i-taught-my-3-year-old-to-read)).
 If you have school-aged kids, [his substack](https://www.theintrinsicperspective.com) is worth your time.
 
+## Daily problem sets
+
+  * [Volume 2](https://github.com/kuperov/worksheets/raw/refs/heads/master/combined.pdf)
+
 ## Maths
 
   * Number recognition: [1](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/numbers/numbers_1.pdf)
@@ -24,7 +28,7 @@ If you have school-aged kids, [his substack](https://www.theintrinsicperspective
 
 ## Writing
 
-  * Blank dotted thirds [8mm](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/dotted_thirds_8mm.pdf) [6mm](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/dotted_thirds_6mm.pdf)
+  * Blank dotted thirds [24mm](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/dotted_thirds_24mm.pdf) [18mm](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/dotted_thirds_18mm.pdf) [14mm](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/dotted_thirds_14mm.pdf)
   * Disconnected Victorian cursive right-handed [stroke order](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/alphabet/stroke_order.pdf)
   * Alphabet tracing:
     - Kinder level: [1](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/kinder/alphabet_trace_once.pdf)
