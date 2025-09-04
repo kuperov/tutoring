@@ -11,6 +11,7 @@ If you have school-aged kids, [his substack](https://www.theintrinsicperspective
 
 ## Daily problem sets
 
+  * [Volume 1](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/worksheets.pdf)
   * [Volume 2](https://github.com/kuperov/worksheets/raw/refs/heads/master/combined.pdf)
 
 ## Maths
@@ -20,7 +21,7 @@ If you have school-aged kids, [his substack](https://www.theintrinsicperspective
   [3](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/numbers/numbers_3.pdf)
   [4](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/numbers/numbers_4.pdf)
   [5](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/numbers/numbers_5.pdf)
-  * [Daily problem sets](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/worksheets.pdf)
+  * [Daily problem sets Volume 1](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/worksheets.pdf)
   * Decimal tiles (1s, 10s, 100s) laser cutter design for teaching arithmetic: [combined](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/number_blocks.svg),
     A4 size [1](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/number_blocks_1.svg)
     [2](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/number_blocks_2.svg)
@@ -32,7 +33,7 @@ If you have school-aged kids, [his substack](https://www.theintrinsicperspective
   * Disconnected Victorian cursive right-handed [stroke order](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/alphabet/stroke_order.pdf)
   * Alphabet tracing:
     - Kinder level: [1](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/kinder/alphabet_trace_once.pdf)
-    [2](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/kinder/lower_case_letters_trace.pdf)
+    [2](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/kinder/alphabet_trace_outline.pdf)
     [3](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/kinder/alphabet_trace.pdf)
     - Foundation level: [1](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/alphabet/alphabet_trace_level_1.pdf)
  [2](https://github.com/kuperov/worksheets/raw/refs/heads/master/writing/alphabet/alphabet_trace_level_2.pdf)
