@@ -4,9 +4,7 @@ Tutoring resources
 This repo contains some of the resources I use to tutor my kids at home.
 
 Our decision to learn at home was inspired by Erik Hoel's marvellous posts 
-about aristocratic tutoring 
-([Part 1](https://www.theintrinsicperspective.com/p/why-we-stopped-making-einsteins),
-[Part 2](https://www.theintrinsicperspective.com/p/follow-up-why-we-stopped-making-einsteins), [Part 3](https://www.theintrinsicperspective.com/p/how-geniuses-used-to-be-raised), [teaching reading early](https://www.theintrinsicperspective.com/p/how-i-taught-my-3-year-old-to-read)).
+about aristocratic tutoring (see this [summary in the Free Press](https://www.thefp.com/p/i-taught-my-three-year-old-to-read-tutoring-education-culture))
 If you have school-aged kids, [his substack](https://www.theintrinsicperspective.com) is worth your time.
 
 ## Daily problem sets
