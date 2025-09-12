@@ -3,9 +3,9 @@ Tutoring resources
 
 This repo contains some of the resources I use to tutor my kids.
 
-We were inspired by Erik Hoel's marvellous research
-on aristocratic tutoring (see this [summary in the Free Press](https://www.thefp.com/p/i-taught-my-three-year-old-to-read-tutoring-education-culture)).
-If you have school-aged kids, [his substack](https://www.theintrinsicperspective.com) is worth your time.
+We were inspired by Erik Hoel's research on aristocratic tutoring:
+see this [summary in the Free Press](https://www.thefp.com/p/i-taught-my-three-year-old-to-read-tutoring-education-culture).
+If you have school-aged kids, [Erik's substack](https://www.theintrinsicperspective.com) is worth your time.
 
 ## Daily problem sets
 
@@ -55,13 +55,15 @@ The Australian Curriculum seems to avoid memorizing facts, which seems to be a h
 
 Reading is the most important academic skill, but school systems [teach reading far too late](https://www.theintrinsicperspective.com/p/literacy-lag-we-start-reading-too) using [ineffective methods](https://features.apmreports.org/sold-a-story/). We taught both of our boys to read before they started school, and our youngest [read through his first chapter book](https://www.amazon.com.au/Faraway-Tree-Adventure-Clauss-Castle/dp/1405280115) at age 3.
 
-Our strategy was simple: we `bootstrapped' decoding skills by learning the alphabet (as sounds, not letter names) and basic digraphs. 
-Then we simply read aloud every day. Some of the tools we started with:
+Our strategy was ridiculously simple. We `bootstrapped' decoding skills by learning the alphabet (as sounds, not letter names) and basic digraphs. 
+Then we read aloud every day, seven days a week.
+
+Some of the tools we started with:
 
   * [Large printable letters](https://github.com/kuperov/worksheets/raw/refs/heads/master/reading/alphabet_dance.pdf) for the "alphabet dance" game
   * Blends ["train" cards](https://github.com/kuperov/worksheets/raw/refs/heads/master/reading/train.pdf) and [star search](https://github.com/kuperov/worksheets/raw/refs/heads/master/reading/star_search.pdf) game from [Phonics Pathways](https://www.amazon.com.au/Phonics-Pathways-Reading-Perfect-Spelling/dp/1118022432)
   * Homemade digraph flashcards
 
-We continued with the [SoundWaves decodable readers](https://www.fireflyeducation.com.au/series/soundwaves/reading), borrowed from our local library, followed by [Elephant and Piggie](https://www.amazon.com.au/Elephant-Piggie-Complete-Collection-Willems/dp/136802131X) and [School of Monsters](https://www.amazon.com.au/School-Monsters-Books-Collection-William/dp/0257353003).
+Daily reading aloud started with the [SoundWaves decodable readers](https://www.fireflyeducation.com.au/series/soundwaves/reading), borrowed from our local library, followed by [Elephant and Piggie](https://www.amazon.com.au/Elephant-Piggie-Complete-Collection-Willems/dp/136802131X) and [School of Monsters](https://www.amazon.com.au/School-Monsters-Books-Collection-William/dp/0257353003).
 
-After that, we switched to more exciting chapter book series: [The Faraway Tree](https://en.wikipedia.org/wiki/The_Faraway_Tree), [The Kingdom of Wrenly](https://www.simonandschuster.com.au/series/The-Kingdom-of-Wrenly), [Zac Power](https://www.goodreads.com/series/61701-zac-power-classic), [Goosebumps](https://en.wikipedia.org/wiki/Goosebumps), [Treehouse series](https://andygriffiths.com.au/the-treehouse-series/), [Captain Underpants](https://en.wikipedia.org/wiki/Captain_Underpants), and [How to Train Your Dragon](https://www.amazon.com.au/How-Train-Your-Dragon-Complete/dp/0316347000).
+As soon as the boys could handle it, we switched to more interesting chapter book series: [The Faraway Tree](https://en.wikipedia.org/wiki/The_Faraway_Tree), [The Kingdom of Wrenly](https://www.simonandschuster.com.au/series/The-Kingdom-of-Wrenly), [Zac Power](https://www.goodreads.com/series/61701-zac-power-classic), [Goosebumps](https://en.wikipedia.org/wiki/Goosebumps), [Treehouse series](https://andygriffiths.com.au/the-treehouse-series/), [Captain Underpants](https://en.wikipedia.org/wiki/Captain_Underpants), and [How to Train Your Dragon](https://www.amazon.com.au/How-Train-Your-Dragon-Complete/dp/0316347000).
