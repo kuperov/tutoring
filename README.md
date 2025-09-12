@@ -1,10 +1,10 @@
 Tutoring resources
 ==================
 
-This repo contains some of the resources I use to tutor my kids at home.
+This repo contains some of the resources I use to tutor my kids.
 
-Our decision to learn at home was inspired by Erik Hoel's marvellous posts 
-about aristocratic tutoring (see this [summary in the Free Press](https://www.thefp.com/p/i-taught-my-three-year-old-to-read-tutoring-education-culture))
+We were inspired by Erik Hoel's marvellous research
+on aristocratic tutoring (see this [summary in the Free Press](https://www.thefp.com/p/i-taught-my-three-year-old-to-read-tutoring-education-culture)).
 If you have school-aged kids, [his substack](https://www.theintrinsicperspective.com) is worth your time.
 
 ## Daily problem sets
@@ -14,8 +14,9 @@ If you have school-aged kids, [his substack](https://www.theintrinsicperspective
 
 ## Maths
 
-Our approach to maths was inspired by The Grattan Institute's [The Maths Guarantee](https://grattan.edu.au/report/maths-guarantee/).
+We were inspired by The Grattan Institute's [The Maths Guarantee](https://grattan.edu.au/report/maths-guarantee/).
 We start with core concepts then use spaced repetition to rote-learn facts, reinforced by daily practice problem sets.
+The Australian Curriculum seems to avoid memorizing facts, which seems to be a huge mistake.
 
   * Number recognition: [1](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/numbers/numbers_1.pdf)
   [2](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/numbers/numbers_2.pdf)
@@ -27,6 +28,11 @@ We start with core concepts then use spaced repetition to rote-learn facts, rein
     A4 size [1](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/number_blocks_1.svg)
     [2](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/number_blocks_2.svg)
     [3](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/number_blocks_3.svg)
+  * Analogue clock practice: [1](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/time/time_1.pdf)
+  [2](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/time/time_2.pdf)
+  [3](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/time/time_3.pdf)
+  [4](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/time/time_4.pdf)
+  [5](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/time/time_5.pdf)
 
 ## Writing
 
@@ -47,12 +53,12 @@ We start with core concepts then use spaced repetition to rote-learn facts, rein
 
 ## Reading
 
-Reading is the most important academic skill a child can develop, but school systems [teach reading far too late](https://www.theintrinsicperspective.com/p/literacy-lag-we-start-reading-too) using [ineffective methods](https://features.apmreports.org/sold-a-story/). We taught both of our boys to read before they started school, and our youngest [finished his first chapter book](https://www.amazon.com.au/Faraway-Tree-Adventure-Clauss-Castle/dp/1405280115) at age 3.
+Reading is the most important academic skill, but school systems [teach reading far too late](https://www.theintrinsicperspective.com/p/literacy-lag-we-start-reading-too) using [ineffective methods](https://features.apmreports.org/sold-a-story/). We taught both of our boys to read before they started school, and our youngest [read through his first chapter book](https://www.amazon.com.au/Faraway-Tree-Adventure-Clauss-Castle/dp/1405280115) at age 3.
 
-Our strategy was to `bootstrap' decoding skills by learning the alphabet (as sounds, not letter names) and basic digraphs. 
-We then moved on to reading as much as we possibly could. Some of the tools we used:
+Our strategy was simple: we `bootstrapped' decoding skills by learning the alphabet (as sounds, not letter names) and basic digraphs. 
+Then we simply read aloud every day. Some of the tools we started with:
 
-  * [Large printable letters](https://github.com/kuperov/worksheets/raw/refs/heads/master/reading/alphabet_dance.pdf) for "alphabet dance" game
+  * [Large printable letters](https://github.com/kuperov/worksheets/raw/refs/heads/master/reading/alphabet_dance.pdf) for the "alphabet dance" game
   * Blends ["train" cards](https://github.com/kuperov/worksheets/raw/refs/heads/master/reading/train.pdf) and [star search](https://github.com/kuperov/worksheets/raw/refs/heads/master/reading/star_search.pdf) game from [Phonics Pathways](https://www.amazon.com.au/Phonics-Pathways-Reading-Perfect-Spelling/dp/1118022432)
   * Homemade digraph flashcards
 
