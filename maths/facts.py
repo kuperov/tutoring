@@ -15,6 +15,8 @@ def generate_facts(number: int, limit: int, ncolumns: int, seed: int):
     while facts.sum() < number:
         i = random.randint(0, limit+1)
         j = random.randint(0, limit+1)
+        if i >= limit or j >= limit:
+            continue
         facts[i, j] = 1
 
     nonzero = np.argwhere(facts.reshape((-1,))).squeeze()
