@@ -3,6 +3,7 @@
 import click
 import numpy as np
 import random
+import os
 
 
 def generate_facts(number: int, limit: int, ncolumns: int, seed: int) -> str:
@@ -56,8 +57,12 @@ def questions(number: int, limit: int, ncolumns: int, seed: int):
 @click.option('--limit', type=int, default=12)
 @click.option('--ncolumns', type=int, default=3)
 @click.option('--seed', type=int, default=1)
+def generate_timed_test_cli(number:int, limit:int, ncolumns: int, seed: int):
+    tt = generate_timed_test(number, limit, ncolumns, seed)
+    print(tt)
+
 def generate_timed_test(number:int, limit:int, ncolumns: int, seed: int):
-    print(fr"""\documentclass[a4paper, 11pt]{{article}}
+    lines = [fr"""\documentclass[a4paper, 11pt]{{article}}
 \usepackage[a4paper, margin=1.5cm]{{geometry}}
 %\usepackage{{graphicx}}
 \usepackage{{multicol}}
@@ -68,14 +73,30 @@ def generate_timed_test(number:int, limit:int, ncolumns: int, seed: int):
 \begin{{document}}
 \maketitle
 
-Answer as many questions as you can in 60 seconds.\bigskip
+Answer as many questions as you can in 60 seconds.
+You are not expected to answer all the questions---just do your best!\bigskip
 
-""")
-    facts = [fr"""\begin{{multicols}}{{{ncolumns}}}"""]
-    facts.append(generate_facts(number, limit, ncolumns, seed))
-    facts.append(r"""\end{multicols}""")
-    facts.append(r"""\end{document}""")
-    print('\n'.join(facts))
+"""]
+    lines.append(fr"""\begin{{multicols}}{{{ncolumns}}}""")
+    lines.append(generate_facts(number, limit, ncolumns, seed))
+    lines.append(r"""\end{multicols}""")
+    lines.append(r"""\end{document}""")
+    return '\n'.join(lines)
+
+@cli.command('many-tests')
+@click.option('--count', type=int, default=10)
+@click.option('--number', type=int, default=48)
+@click.option('--limit', type=int, default=12)
+@click.option('--ncolumns', type=int, default=3)
+@click.option('--seed', type=int, default=1)
+def many_tests_cli(count: int, number: int, limit: int, ncolumns: int, seed: int):
+    for i in range(count):
+        tt = generate_timed_test(number, limit, ncolumns, seed + i)
+        with open(f"addition_facts_test_{i+1}.tex", "w") as f:
+            f.write(tt)
+        os.system(f"pdflatex addition_facts_test_{i+1}.tex")
+        os.remove(f"addition_facts_test_{i+1}.log")
+        os.remove(f"addition_facts_test_{i+1}.aux")
 
 if __name__ == "__main__":
     cli()

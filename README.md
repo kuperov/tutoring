@@ -33,6 +33,17 @@ The Australian Curriculum seems to avoid memorizing facts, which seems to be a h
   [3](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/time/time_3.pdf)
   [4](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/time/time_4.pdf)
   [5](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/time/time_5.pdf)
+  * Addition facts speed test: [1](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/addition_facts_test_1.pdf)
+  [2](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/addition_facts_test_2.pdf)
+  [3](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/addition_facts_test_3.pdf)
+  [4](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/addition_facts_test_4.pdf)
+  [5](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/addition_facts_test_5.pdf)
+  [6](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/addition_facts_test_6.pdf)
+  [7](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/addition_facts_test_7.pdf)
+  [8](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/addition_facts_test_8.pdf)
+  [9](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/addition_facts_test_9.pdf)
+  [10](https://github.com/kuperov/worksheets/raw/refs/heads/master/maths/addition_facts_test_10.pdf)
+  ([generator](https://github.com/kuperov/worksheets/blob/refs/heads/master/maths/facts.py))
 
 ## Writing
 
