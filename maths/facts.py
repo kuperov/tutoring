@@ -64,17 +64,16 @@ def generate_timed_test_cli(number:int, limit:int, ncolumns: int, seed: int):
 def generate_timed_test(number:int, limit:int, ncolumns: int, seed: int):
     lines = [fr"""\documentclass[a4paper, 11pt]{{article}}
 \usepackage[a4paper, margin=1.5cm]{{geometry}}
-%\usepackage{{graphicx}}
 \usepackage{{multicol}}
-%\usepackage{{enumitem}}
-%\setenumerate[0]{{label=(\Alph*)}}
 
 \title{{Addition Maths Facts Test \textnumero {seed}}}
+\author{{}}
+\date{{}}
 \begin{{document}}
 \maketitle
 
-Answer as many questions as you can in 60 seconds.
-You are not expected to answer all the questions---just do your best!\bigskip
+Answer as many as you can in 60 seconds.
+You won't get them all---just do your best!\bigskip
 
 """]
     lines.append(fr"""\begin{{multicols}}{{{ncolumns}}}""")
@@ -85,7 +84,7 @@ You are not expected to answer all the questions---just do your best!\bigskip
 
 @cli.command('many-tests')
 @click.option('--count', type=int, default=10)
-@click.option('--number', type=int, default=48)
+@click.option('--number', type=int, default=54)
 @click.option('--limit', type=int, default=12)
 @click.option('--ncolumns', type=int, default=3)
 @click.option('--seed', type=int, default=1)
