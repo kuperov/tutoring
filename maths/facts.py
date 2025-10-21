@@ -41,11 +41,11 @@ def cli():
     pass
 
 @cli.command('questions')
+@click.argument('seed', type=int)
 @click.option('--number', type=int, default=12)
 @click.option('--limit', type=int, default=12)
 @click.option('--ncolumns', type=int, default=3)
-@click.option('--seed', type=int, default=123)
-def questions(number: int, limit: int, ncolumns: int, seed: int):
+def questions(seed: int, number: int, limit: int, ncolumns: int):
     facts = [fr"""\item
   \begin{{multicols}}{{{ncolumns}}}"""]
     facts.append(generate_facts(number, limit, ncolumns, seed))
