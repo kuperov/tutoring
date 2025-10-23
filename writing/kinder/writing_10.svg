@@ -7,7 +7,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (1:1.4.2+202505120737+ebf0e940d0)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="writing_10.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,14 +23,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.71535497"
-     inkscape:cx="450.82513"
-     inkscape:cy="364.85383"
-     inkscape:window-width="1033"
-     inkscape:window-height="1011"
-     inkscape:window-x="20"
-     inkscape:window-y="20"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.68285987"
+     inkscape:cx="930.64482"
+     inkscape:cy="507.42475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
@@ -157,33 +157,39 @@
        transform="translate(109.05973,117.6203)"><tspan
          x="0.59684783"
          y="26.414795"
-         id="tspan14"><tspan
+         id="tspan5"><tspan
            style="text-align:start;text-anchor:start;fill:#000000;stroke:none"
-           id="tspan4">MM
+           id="tspan1">MM
 </tspan></tspan><tspan
          x="0.59684783"
          y="49.698094"
-         id="tspan17"><tspan
+         id="tspan8"><tspan
            style="text-align:start;text-anchor:start;fill:#000000;stroke:none"
-           id="tspan15">uu</tspan><tspan
+           id="tspan6">uu</tspan><tspan
            style="text-align:start;text-anchor:start;fill:#000000;stroke:none"
-           id="tspan16">
+           id="tspan7">
 </tspan></tspan><tspan
          x="0.59684783"
          y="72.981396"
-         id="tspan22"><tspan
+         id="tspan11"><tspan
            style="text-align:start;text-anchor:start;fill:#000000;stroke:none"
-           id="tspan18">mm</tspan><tspan
+           id="tspan9">mm</tspan><tspan
            style="text-align:start;text-anchor:start;fill:#000000;stroke:none"
-           id="tspan21">
+           id="tspan10">
 </tspan></tspan><tspan
          x="0.59684783"
          y="96.264699"
-         id="tspan24"><tspan
+         id="tspan13"><tspan
+           style="text-align:start;text-anchor:start;fill:#000000;stroke:none"
+           id="tspan12">Mum
+</tspan></tspan><tspan
+         x="0.59684783"
+         y="119.548"
+         id="tspan26"><tspan
    style="text-align:start;text-anchor:start;fill:#000000;stroke:none"
-   id="tspan23">Mum</tspan><tspan
-   y="96.264699"
-   id="tspan25"> </tspan></tspan></text>
+   id="tspan19">Ken</tspan><tspan
+   y="119.548"
+   id="tspan27"> </tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.4028px;line-height:6.38847px;font-family:'VIC MODERN  CURSIVE';-inkscape-font-specification:'VIC MODERN  CURSIVE, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.132292"
@@ -280,5 +286,17 @@
        id="path349"
        sodipodi:nodetypes="csscssc"
        inkscape:label="u" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 1.50001;stroke-dashoffset:0"
+       d="M 13.446812,229.30312 H 194.31765"
+       id="path94-5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       d="M 13.446812,237.06722 H 194.31765"
+       id="path95-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 1.50001;stroke-dashoffset:0"
+       d="M 13.446812,244.83132 H 194.31765"
+       id="path96-2" />
   </g>
 </svg>
