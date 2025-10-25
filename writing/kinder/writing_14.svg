@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (1:1.4.2+202505120737+ebf0e940d0)"
-   sodipodi:docname="writing_13.svg"
+   sodipodi:docname="writing_14.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.654938"
-     inkscape:cx="207.65324"
-     inkscape:cy="242.77107"
+     inkscape:zoom="0.9262222"
+     inkscape:cx="378.95874"
+     inkscape:cy="410.26872"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -99,33 +99,33 @@
        transform="translate(109.05973,29.778479)"><tspan
          x="0.59684783"
          y="26.414795"
-         id="tspan13"><tspan
+         id="tspan4"><tspan
            style="text-align:start;text-anchor:start;fill:#000000;stroke:none"
-           id="tspan3">ee      tt      ss    
+           id="tspan1">ee      tt      ss    
 </tspan></tspan><tspan
          x="0.59684783"
          y="49.698094"
-         id="tspan15"><tspan
+         id="tspan6"><tspan
            style="text-align:start;text-anchor:start;fill:#000000;stroke:none"
-           id="tspan14">aa     oo     hh
+           id="tspan5">aa     jj      hh
 </tspan></tspan><tspan
          x="0.59684783"
          y="72.981396"
-         id="tspan17"><tspan
+         id="tspan8"><tspan
            style="text-align:start;text-anchor:start;fill:#000000;stroke:none"
-           id="tspan16">bb     nn     KK
+           id="tspan7">ii      nn     oo
 </tspan></tspan><tspan
          x="0.59684783"
          y="96.264699"
-         id="tspan19"><tspan
+         id="tspan10"><tspan
            style="text-align:start;text-anchor:start;fill:#000000;stroke:none"
-           id="tspan18">ii
+           id="tspan9">bb
 </tspan></tspan><tspan
          x="0.59684783"
          y="119.548"
-         id="tspan22"><tspan
+         id="tspan12"><tspan
            style="text-align:start;text-anchor:start;fill:#000000;stroke:none"
-           id="tspan21">jj
+           id="tspan11">uu
 </tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -134,10 +134,10 @@
        y="19.614948"
        id="text3"><tspan
          sodipodi:role="line"
+         id="tspan3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;line-height:10.6474px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.132292"
          x="13.076632"
-         y="19.614948"
-         id="tspan12">Writing worksheet #13</tspan></text>
+         y="19.614948">Writing worksheet #14</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.4028px;line-height:6.38847px;font-family:'VIC MODERN  CURSIVE';-inkscape-font-specification:'VIC MODERN  CURSIVE, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.132292"
@@ -176,16 +176,16 @@
     <g
        id="g323"
        inkscape:label="f"
-       style="display:inline;stroke:#333333;stroke-width:0.6;stroke-dasharray:none;stroke-dashoffset:0"
+       style="display:inline;stroke:#000000;stroke-width:0.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.3019608"
        transform="translate(-130.19768,113.72347)">
       <path
-         style="fill:none;stroke:#333333;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.3019608"
          d="m 151.56231,44.975099 c -0.24929,-0.245765 -0.5433,-0.777048 -1.32725,-0.777048 -1.80867,0.345048 -3.02416,5.614067 -3.26027,6.49693 -0.23611,0.882863 -1.88727,13.038391 -1.88727,14.023869"
          id="path322"
          sodipodi:nodetypes="cczc"
          inkscape:label="f_1" />
       <path
-         style="fill:none;stroke:#333333;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.3019608"
          d="m 145.56332,51.183267 4.29094,-1.355032"
          id="path323"
          inkscape:label="f_2" />
@@ -193,16 +193,16 @@
     <g
        id="g323-0"
        inkscape:label="f"
-       style="display:inline;stroke:#333333;stroke-width:0.6;stroke-dasharray:none;stroke-dashoffset:0"
+       style="display:inline;stroke:#000000;stroke-width:0.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.3019608"
        transform="translate(-122.20517,113.31595)">
       <path
-         style="fill:none;stroke:#333333;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.3019608"
          d="m 151.56231,44.975099 c -0.24929,-0.245765 -0.5433,-0.777048 -1.32725,-0.777048 -1.80867,0.345048 -3.02416,5.614067 -3.26027,6.49693 -0.23611,0.882863 -1.88727,13.038391 -1.88727,14.023869"
          id="path322-6"
          sodipodi:nodetypes="cczc"
          inkscape:label="f_1" />
       <path
-         style="fill:none;stroke:#333333;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.3019608"
          d="m 145.56332,51.183267 4.29094,-1.355032"
          id="path323-3"
          inkscape:label="f_2" />
