@@ -29,8 +29,7 @@ def generate_facts(number: int, limit: int, ncolumns: int, seed: int) -> str:
     problem_text = [prob(x, y, i) for i, (x, y) in enumerate(problems)]
 
     text = []
-    text.append(fr"""
-    \begin{{enumerate}}\bigskip""")
+    text.append(fr"""    \begin{{enumerate}}\bigskip""")
     text.append('\n'.join(problem_text))
     text.append(r"""    \end{enumerate}""")
     return '\n'.join(text)
@@ -49,7 +48,7 @@ def questions(seed: int, number: int, limit: int, ncolumns: int):
     facts = [fr"""\item
   \begin{{multicols}}{{{ncolumns}}}"""]
     facts.append(generate_facts(number, limit, ncolumns, seed))
-    facts.append(r"""\end{multicols}""")
+    facts.append(r"""  \end{multicols}""")
     print('\n'.join(facts))
 
 @cli.command('test')
