@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30.264584mm"
+   height="10.264583mm"
+   viewBox="0 0 30.264584 10.264583"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (1:1.4.2+202505120737+ebf0e940d0)"
+   sodipodi:docname="6x2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.75722503"
+     inkscape:cx="-74.614544"
+     inkscape:cy="215.25966"
+     inkscape:window-width="1033"
+     inkscape:window-height="991"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-124.88333,-91.545829)">
+    <g
+       inkscape:label="GridCartesian:X6:Y2"
+       transform="translate(125.01562,91.67812)"
+       id="g79">
+      <g
+         inkscape:label="MajorXGridlines"
+         id="g77">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 5,0 V 10"
+           inkscape:label="MajorXDiv1"
+           id="path73" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 10,0 V 10"
+           inkscape:label="MajorXDiv2"
+           id="path74" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 15,0 V 10"
+           inkscape:label="MajorXDiv3"
+           id="path75" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 20,0 V 10"
+           inkscape:label="MajorXDiv4"
+           id="path76" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 25,0 V 10"
+           inkscape:label="MajorXDiv5"
+           id="path77" />
+      </g>
+      <g
+         inkscape:label="MajorYGridlines"
+         id="g78">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,5 H 30"
+           inkscape:label="MajorYDiv1"
+           id="path78" />
+      </g>
+      <rect
+         x="0"
+         y="0"
+         width="30"
+         height="10"
+         style="fill:none;stroke:#000000;stroke-width:0.264583"
+         inkscape:label="Border"
+         id="rect78" />
+    </g>
+  </g>
+</svg>
