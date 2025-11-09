@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="1.0116647"
-     inkscape:cx="19.769396"
-     inkscape:cy="361.77996"
+     inkscape:zoom="0.25291618"
+     inkscape:cx="130.47801"
+     inkscape:cy="976.60816"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -39,11 +39,11 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 1.49999101;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
        d="M 14.257134,65.238895 H 195.13378"
        id="path91" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 1.50001369;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
        d="M 14.257134,135.11583 H 195.12799"
        id="path180-4" />
     <path
@@ -59,7 +59,7 @@
        d="M 14.257134,127.35172 H 195.12799"
        id="path197-4" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 1.50001369;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
        d="M 14.257134,18.654271 H 195.12799"
        id="path82" />
     <path
@@ -71,7 +71,7 @@
        d="M 14.257134,10.890166 H 195.12799"
        id="path85" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 1.50001369;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
        d="M 14.257134,41.946582 H 195.12797"
        id="path86" />
     <path
@@ -91,7 +91,7 @@
        d="M 14.257134,80.767102 H 195.12798"
        id="path93" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 1.50001369;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
        d="M 14.257134,88.531206 H 195.12798"
        id="path94" />
     <path
@@ -103,7 +103,7 @@
        d="M 14.257134,104.05941 H 195.12798"
        id="path96" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 1.50001369;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
        d="M 14.257134,111.82352 H 195.12798"
        id="path97" />
     <path
@@ -111,7 +111,7 @@
        d="M 14.257134,119.58764 H 195.12798"
        id="path98" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 1.50001369;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
        d="M 14.257134,251.5774 H 195.12798"
        id="path175-4" />
     <path
@@ -127,7 +127,7 @@
        d="M 14.257134,243.81328 H 195.12798"
        id="path178-6" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 1.50001369;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
        d="M 14.257134,158.40814 H 195.12799"
        id="path214-4" />
     <path
@@ -139,7 +139,7 @@
        d="M 14.257134,173.93636 H 195.12799"
        id="path216-6" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 1.50001369;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
        d="M 14.257134,181.70045 H 195.12799"
        id="path240-4" />
     <path
@@ -151,7 +151,7 @@
        d="M 14.257134,197.22866 H 195.12799"
        id="path242-2" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 1.50001369;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
        d="M 14.257134,204.99276 H 195.128"
        id="path260-7" />
     <path
@@ -163,7 +163,7 @@
        d="M 14.257134,220.52098 H 195.12798"
        id="path262-0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 1.50001369;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
        d="M 14.257134,228.28508 H 195.12799"
        id="path295" />
     <path
@@ -175,7 +175,7 @@
        d="M 14.257134,26.418375 H 195.12799"
        id="path83" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 1.50001369;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
        d="M 14.257134,274.8697 H 195.12798"
        id="path1" />
     <path

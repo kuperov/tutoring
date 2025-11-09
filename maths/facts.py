@@ -19,7 +19,7 @@ def generate_facts(number: int, limit: int, ncolumns: int, seed: int) -> str:
 
     nonzero = np.argwhere(facts.reshape((-1,))).squeeze()
     def prob(x, y, i):
-        text = f'      \\item {x} + {y} = \\dotfill'
+        text = f'      \\item ${x} + {y} =$ \\dotfill'
         if (i+1) % percol != 0:
             text += '\\bigskip'
         return text
